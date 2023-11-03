@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
     libC2D2 \
     libCB \
     libOpenCL \
+    libadm \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
@@ -132,6 +133,7 @@ PRODUCT_PACKAGES += \
     libqmi_csi \
     libqmi_encdec \
     libqmiservices \
+    libqtigef \
     libvpphvx \
     libvpplibrary \
     vendor.qti.hardware.vpp@1.1 \
